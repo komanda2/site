@@ -92,3 +92,6 @@ body {
 .nav-item{
   padding-right: 10px;
 }
+.form-control{
+  padding-top: 10px;
+}
